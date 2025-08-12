@@ -1,0 +1,5 @@
+n1=(input("Enter any number:"))
+float_value=float(n1)
+print("type conversion in float :",float_value)
+int_value=int(n1)
+print("type conversion in int :",int_value) 
